@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bplskYgrwGb11hSu2SDjj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://dhruvbhatnagar.io))
 <h1 align="center">Hi 👋, I'm Dhruv Bhatnagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvbhatnagar&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvbhatnagar" /> </p>
