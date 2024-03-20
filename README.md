@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Problem Solving, Ideas**
 
-- 📫 How to reach me **bhatnagardhruv.gzb@gmail.com**
+- 📫 How to reach me **dhruvbhat1k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
