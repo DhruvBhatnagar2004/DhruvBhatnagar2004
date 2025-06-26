@@ -8,7 +8,7 @@
 <tr>
 <td>
 
-<h3>## About Me:</h3>
+## About Me:
 
 🔭 I’m currently working on DSA<br><br>
 ❤️ I prefer React on frontend and Node.js and/or Django with MySQL and/or MongoDB and/or PostgreSQL on backend<br><br>
@@ -97,7 +97,7 @@
 
 
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DhruvBhatnagar2004&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DhruvBhatnagar2004&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvBhatnagar2004&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
