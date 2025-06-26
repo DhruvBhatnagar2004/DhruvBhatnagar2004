@@ -1,15 +1,37 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bplskYgrwGb11hSu2SDjj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://dhruvbhatnagar.io))
 <h1 align="center">Hi 👋, I'm Dhruv Bhatnagar</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvbhatnagar2004&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvbhatnagar2004" /> </p>
-
-🔭 I’m currently working on DSA<br>🌱 I’m currently learning Machine Learning<br>👯 I’m looking to collaborate on Full Stack and Python projects<br>🤝 I’m looking for help with Debugging and Error Acknowledgment<br>💬 Ask me about Problem Solving, Ideas<br>📫 How to reach me dhruvbhat1k@gmail.com
 
 
-## 🌐 Socials:
+
+<table>
+<tr>
+<td>
+
+<h3>## About Me:</h3>
+
+🔭 I’m currently working on DSA<br><br>
+❤️ I prefer React on frontend and Node.js and/or Django with MySQL and/or MongoDB and/or PostgreSQL on backend<br><br>
+🌱 I’m currently learning Machine Learning<br><br>
+👯 I’m looking to collaborate on Full Stack and Python projects<br><br>
+🤝 I’m looking for help with Debugging and Error Acknowledgment <br><br>
+💬 Ask me about `frontend`, `backend` and `machine learning`<br><br>
+- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...<br><br>
+- LocalStorage, SessionStorage, JWT<br><br>
+
+</td>
+<td>
+<img align="right" src="https://octodex.github.com/images/filmtocat.png" width="300">
+</td>
+</tr>
+</table>
+
+
+
+
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-bhatnagar-py/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvbhat1k@gmail.com) 
+
 
 ## Languages and Tools:
 <div align="left">
@@ -75,12 +97,12 @@
 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DhruvBhatnagar2004&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DhruvBhatnagar2004&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvBhatnagar2004&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DhruvBhatnagar2004&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
 ## Feeding...
