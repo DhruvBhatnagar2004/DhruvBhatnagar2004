@@ -21,7 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DhruvBhatnagar2004&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
-![Snake animation](https://raw.githubusercontent.com/{DhruvBhatnagar2004}/{DhruvBhatnagar2004}/output/github-contribution-grid-snake-dark.svg)
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 
 
