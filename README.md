@@ -97,13 +97,23 @@
 
 
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DhruvBhatnagar2004&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DhruvBhatnagar2004&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvBhatnagar2004&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DhruvBhatnagar2004&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
+
+<p align="center">
+  <img src="./profile/streak.svg" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="./profile/trophy.svg" />
+</p>
+
 
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
